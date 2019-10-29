@@ -5,7 +5,7 @@
 - run "npm install react-scripts"
 - run "npm run start"
 
-**To access this web app from external networks, you can:**
+**To allow users access this web app from external networks:**
 
 - go the dir called "ngrok"
 - after autentication, run "ngrok http [port number]"
